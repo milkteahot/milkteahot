@@ -5,8 +5,8 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilkteahot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
   ### Web Developer
-  Hi there 👋
-  I am currently working as a startup web-developer.
+  Hi there 👋 <br/>
+  I am currently working as a startup web-developer. <br/>
   
   Love to make user-friendly websites. <br/><br/>
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://skying23.tistory.com/category/TIL)](https://skying23.tistory.com/category/TIL)
