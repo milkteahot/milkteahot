@@ -11,7 +11,7 @@
   I am currently working as a startup web-developer. <br/>
   
   Love to make user-friendly websites. <br/><br/>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/skying/Kayoung-Song-5e20f7bdf6cd41ec817491ced09e755e)](https://www.notion.so/skying/Kayoung-Song-5e20f7bdf6cd41ec817491ced09e755e)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/kayoung/Web-Developer-Skying-c632109d9b8a4c8f99a420eb4b150a1b)](https://www.notion.so/kayoung/Web-Developer-Skying-c632109d9b8a4c8f99a420eb4b150a1b)
 
 </div>
 
